@@ -1,6 +1,6 @@
 {
   "name": "session-usage",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A usage side pane for Claude Code: context, rate limits, cost and recent tool calls",
   "types": "./types/index.d.ts",
   "userConfig": {
